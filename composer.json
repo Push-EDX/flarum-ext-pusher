@@ -1,5 +1,5 @@
 {
-    "name": "flarum/flarum-ext-pusher",
+    "name": "push-edx/flarum-ext-pusher",
     "description": "See new discussions and posts in real-time using Pusher.",
     "type": "flarum-extension",
     "keywords": ["discussion"],
@@ -8,6 +8,10 @@
         {
             "name": "Toby Zerner",
             "email": "toby.zerner@gmail.com"
+        },
+        {
+            "name": "Guillem Pascual",
+            "email": "blipi.tube@gmail.com"
         }
     ],
     "support": {
